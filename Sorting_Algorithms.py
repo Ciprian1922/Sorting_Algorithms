@@ -7,7 +7,8 @@
 # and finally insert the size of the lists to be generated and sorted.
 # Every single sorting algorithm is sorting the same generated list so we can see better the difference in time
 # execution.
-# The colaboration for this code was done with https://github.com/AlexandraStulianec and https://github.com/maxi-todo
+# The colaboration for this code was done with two of my colleagues:
+# https://github.com/AlexandraStulianec and https://github.com/maxi-todo
 import random
 import csv
 import time
