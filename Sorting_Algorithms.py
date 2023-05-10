@@ -219,6 +219,7 @@ def bucketSort(arr, noOfBuckets):
 
 print("Write to file name:")
 f_name = input()
+f_name = f_name + '.csv'
 
 print("Number of lists generated:")
 run = int(input())
